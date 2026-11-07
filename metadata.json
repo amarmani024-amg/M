@@ -1,0 +1,6 @@
+{
+  "name": "The Mind Vault",
+  "description": "An interactive puzzle vault built for a brilliant, disciplined engineering mind. Features tactile mini-games, logic gates, cipher crack, and celebratory surprises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
